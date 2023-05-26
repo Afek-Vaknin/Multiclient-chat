@@ -1,3 +1,3 @@
-# proj1-multi-client-chat
+#Multiclient-chat
 
 a very simple multiclient chat
